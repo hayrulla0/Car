@@ -1,0 +1,62 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.content{
+width: 100%;
+height: auto;
+}
+.test{
+width: 100%;
+height: 80px;
+background-color: aqua;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+.test ul{
+display: flex;
+list-style: none;
+
+}
+.test ul li{
+margin-left: 40px;
+}
+.sayt{
+width: 100%;
+height: 91.7vh;
+/* border: 1px solid red; */
+background-image: url(1639170179_32-sportishka-com-p-nochnie-mashini-sport-krasivo-foto-35.jpg);
+background-size: cover;
+background-position: center bottom;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+color: white;
+}
+a{
+border: 1px solid  white;
+border-color: azure;
+border-radius: 7px;
+color: burlywood;
+background-color: cornflowerblue;
+text-decoration: none;
+padding: 7px 30px;
+margin-top: 13px;
+
+}
+a:hover{
+background-color: black;
+transition: 0.5s;
+}
+.sayt h1{
+   
+
+
+}
+.saytb p{
+
+}
